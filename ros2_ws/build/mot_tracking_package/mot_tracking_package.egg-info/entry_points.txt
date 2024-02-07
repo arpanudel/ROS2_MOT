@@ -1,0 +1,4 @@
+[console_scripts]
+mot_node = mot_tracking_package.mot_node:main
+video_publisher = mot_tracking_package.video_publisher:main
+

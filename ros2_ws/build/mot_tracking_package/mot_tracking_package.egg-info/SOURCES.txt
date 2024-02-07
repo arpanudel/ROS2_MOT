@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/mot_tracking_package/mot_tracking_package.egg-info/PKG-INFO
+../../build/mot_tracking_package/mot_tracking_package.egg-info/SOURCES.txt
+../../build/mot_tracking_package/mot_tracking_package.egg-info/dependency_links.txt
+../../build/mot_tracking_package/mot_tracking_package.egg-info/entry_points.txt
+../../build/mot_tracking_package/mot_tracking_package.egg-info/requires.txt
+../../build/mot_tracking_package/mot_tracking_package.egg-info/top_level.txt
+../../build/mot_tracking_package/mot_tracking_package.egg-info/zip-safe
+mot_tracking_package/__init__.py
+mot_tracking_package/mot_node.py
+mot_tracking_package/video_publisher.py
+resource/mot_tracking_package
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
